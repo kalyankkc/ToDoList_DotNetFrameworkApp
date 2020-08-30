@@ -1,0 +1,10 @@
+C:\Users\kalyanchakri\source\repos\sampleapp\bin\Debug\sampleapp.dacpac
+C:\Users\kalyanchakri\source\repos\sampleapp\bin\Debug\sampleapp.dll
+C:\Users\kalyanchakri\source\repos\sampleapp\bin\Debug\sampleapp.pdb
+C:\Users\kalyanchakri\source\repos\sampleapp\obj\Debug\sampleapp.sqlprojAssemblyReference.cache
+C:\Users\kalyanchakri\source\repos\sampleapp\obj\Debug\Model.xml
+C:\Users\kalyanchakri\source\repos\sampleapp\obj\Debug\refactor.xml
+C:\Users\kalyanchakri\source\repos\sampleapp\obj\Debug\postdeploy.sql
+C:\Users\kalyanchakri\source\repos\sampleapp\obj\Debug\predeploy.sql
+C:\Users\kalyanchakri\source\repos\sampleapp\obj\Debug\sampleapp.dll
+C:\Users\kalyanchakri\source\repos\sampleapp\obj\Debug\sampleapp.pdb
